@@ -10,3 +10,12 @@ Possible thought:
 Final idea:
 Swiping System for LTU library
 
+Functions: 
+1. Entry swiping system. 
+2. Study room access / management.
+
+Personas: 
+1. The student(s) that would like to access the library -> Access to the library
+2. The student(s) that would like to utilize a study room -> Utilize study rooms
+3. The student(s) worker(s) at the library -> Study Room Management
+4. Librarians/supervisors. -> Measurments and statistics
