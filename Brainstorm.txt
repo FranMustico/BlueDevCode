@@ -18,4 +18,4 @@ Personas:
 1. The student(s) that would like to access the library -> Access to the library
 2. The student(s) that would like to utilize a study room -> Utilize study rooms
 3. The student(s) worker(s) at the library -> Study Room Management
-4. Librarians/supervisors. -> Measurments and statistics
+4. Librarians/supervisors. -> Measurments and statistics (how many people at a given time, how many people use the study rooms, who uses the study rooms (if it gets damaged))
