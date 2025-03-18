@@ -6,3 +6,7 @@ Ideate product possibilities:
 
 Possible thought: 
 1. Develop the system on a web-based application for futher portfolio use????
+
+Final idea:
+Swiping System for LTU library
+
