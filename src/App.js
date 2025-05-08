@@ -63,27 +63,6 @@ export default function LibraryApp() {
         <h1 className="text-4xl font-bold"> LTU LIBRARY</h1>
       </nav>
 
-      {/* Tabs */}
-      <div className="bg-white shadow-md flex justify-center space-x-4 p-4">
-        <button
-          className={`px-4 py-2 rounded ${activeTab === 'patron' ? 'bg-blue-600 text-white' : 'text-blue-600 hover:bg-blue-100'}`}
-          onClick={() => setActiveTab('patron')}
-        >
-          👥 Patron Count
-        </button>
-        <button
-          className={`px-4 py-2 rounded ${activeTab === 'rooms' ? 'bg-blue-600 text-white' : 'text-blue-600 hover:bg-blue-100'}`}
-          onClick={() => setActiveTab('rooms')}
-        >
-          🏫 Study Rooms
-        </button>
-        <button
-          className={`px-4 py-2 rounded`}
-          onClick={() => setIsAdmin(!isAdmin)}
-        >
-          {isAdmin ? 'User View' : 'Admin Panel'}
-        </button>
-      </div>
 
       {/* Main Content */}
       <div className="p-6 max-w-6xl mx-auto space-y-8">
